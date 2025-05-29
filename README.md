@@ -34,7 +34,7 @@ npm run dev
 - `GET /api/search?query=`
 
 ### Reviews
-- `POST /api/books/:id/reviews`
+- `POST /api/reviews/books/:id/reviews`
 - `PUT /api/reviews/:id`
 - `DELETE /api/reviews/:id`
 
